@@ -1,5 +1,3 @@
-# Pengantar Podman
-
 ## Apa itu Podman?
 
 Podman adalah sebuah alat manajemen container yang memungkinkan pengguna untuk menjalankan dan mengelola container serta image container. Sama seperti Docker, Podman menggunakan konsep yang sama dalam hal pengelolaan container, tetapi tanpa perlu menjalankan daemon yang terus-menerus seperti pada Docker.
